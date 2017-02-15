@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GrabPassInvert.shader">
+    <Files>
+      <File FileName="Temp\GeneratedFromSurface-Custom-Window.shader" Line="1" Column="1" />
+      <File FileName="Assets\Window.shader" Line="29" Column="1" />
+      <File FileName="Assets\PostEffectScript.cs" Line="12" Column="2" />
+      <File FileName="Assets\GrabPassInvert.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
